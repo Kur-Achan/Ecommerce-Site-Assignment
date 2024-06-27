@@ -1,0 +1,18 @@
+.footer{
+margin-left: 10%; 
+display: flex; 
+gap: 1%;  
+}
+.firm{
+    margin-left: 20%;     
+}
+.sub{
+ margin-left: 20%;   
+}
+.follo{
+ margin-left: 20%;   
+}
+.quicks{
+    margin-left: -32%;
+ margin-top: 15%;   
+}

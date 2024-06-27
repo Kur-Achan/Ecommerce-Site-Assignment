@@ -1,4 +1,24 @@
 .nav{
  display: flex; 
- background-color: aliceblue;  
+ background-color: aliceblue; 
+ margin-left: 15%; 
+
+}
+.fumes{
+ font-style: italic;   
+margin-left: 26%;
+}
+.sales{
+    margin-left: -18%;
+ margin-top: 6%; 
+ 
+  
+}
+.key{
+ margin-left: -16%;
+ margin-top: 20%; 
+ background-color: black;  
+ color: aliceblue;
+ font-size: xx-large;
+ width: 200px;
 }
