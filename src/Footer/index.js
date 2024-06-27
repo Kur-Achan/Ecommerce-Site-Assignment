@@ -2,6 +2,7 @@ import './index.css'
 import { FaFacebookF } from "react-icons/fa";
 import { FaXTwitter } from "react-icons/fa6";
 import { FaInstagram } from "react-icons/fa";
+import { PiFlipVerticalBold } from "react-icons/pi";
 
 const Footer= ()=>{
     return(
@@ -26,6 +27,7 @@ const Footer= ()=>{
 
              <div className="sub">
              <p><b>Subscribe Us</b></p>
+             <PiFlipVerticalBold />
              
              </div>
                <div className="follo"> 

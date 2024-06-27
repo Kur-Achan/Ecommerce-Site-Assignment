@@ -22,3 +22,25 @@ margin-left: 26%;
  font-size: xx-large;
  width: 200px;
 }
+.bag{
+ margin-left: 10%; 
+ margin-top: 2%;  
+}
+.profile{
+    margin-left: 3%; 
+    margin-top: 2%;  
+
+}
+.search{
+    margin-left: 3%; 
+    margin-top: 2%;  
+
+
+}
+.list{
+    margin-left: 3%; 
+    margin-top: 2%;     
+}
+.menu{
+    margin-top: 2%;     
+}   
